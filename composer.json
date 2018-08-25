@@ -1,0 +1,30 @@
+{
+    "name": "Taronyuu/nova-mollie-tool",
+    "description": "A Laravel Nova tool.",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0",
+        "mollie/mollie-api-php": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Taronyuu\\NovaMollieTool\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Taronyuu\\NovaMollieTool\\ToolServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
