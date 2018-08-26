@@ -1,6 +1,6 @@
 {
     "name": "taronyuu/nova-mollie-tool",
-    "description": "A Laravel Nova tool.",
+    "description": "Simple tool for Laravel Nova to show your transactions from Mollie",
     "keywords": [
         "laravel",
         "nova"
