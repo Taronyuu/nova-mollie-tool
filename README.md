@@ -1,4 +1,7 @@
 # Laravel Nova Mollie Tool
+> Simple package to get transactions from Mollie in your Nova dashboard.
+
+ ![Nova Mollie Transactions](https://raw.githubusercontent.com/Taronyuu/nova-mollie-tool/master/screenshot.png)
 
 ## Installation
 
